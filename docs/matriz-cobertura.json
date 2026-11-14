@@ -1,0 +1,2257 @@
+[
+  {
+    "id": "q001",
+    "eixo": "estatistica",
+    "competencias": [
+      "tipo de variável"
+    ],
+    "contexto": "context-1",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s02-1",
+        "page": 3,
+        "subject": 2
+      }
+    ],
+    "cartoes": [
+      "q001-conceito",
+      "q001-aplicar"
+    ]
+  },
+  {
+    "id": "q002",
+    "eixo": "estatistica",
+    "competencias": [
+      "robustez"
+    ],
+    "contexto": "context-2",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s02-1",
+        "page": 11,
+        "subject": 2
+      }
+    ],
+    "cartoes": [
+      "q002-conceito",
+      "q002-aplicar"
+    ]
+  },
+  {
+    "id": "q003",
+    "eixo": "estatistica",
+    "competencias": [
+      "incerteza amostral"
+    ],
+    "contexto": "context-3",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s02-1",
+        "page": 21,
+        "subject": 2
+      }
+    ],
+    "cartoes": [
+      "q003-conceito",
+      "q003-aplicar"
+    ]
+  },
+  {
+    "id": "q004",
+    "eixo": "estatistica",
+    "competencias": [
+      "inferência"
+    ],
+    "contexto": "context-4",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s02-1",
+        "page": 73,
+        "subject": 2
+      }
+    ],
+    "cartoes": [
+      "q004-conceito",
+      "q004-aplicar"
+    ]
+  },
+  {
+    "id": "q005",
+    "eixo": "estatistica",
+    "competencias": [
+      "inferência"
+    ],
+    "contexto": "context-5",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s02-1",
+        "page": 70,
+        "subject": 2
+      }
+    ],
+    "cartoes": [
+      "q005-conceito",
+      "q005-aplicar"
+    ]
+  },
+  {
+    "id": "q006",
+    "eixo": "estatistica",
+    "competencias": [
+      "incerteza amostral"
+    ],
+    "contexto": "context-6",
+    "integrativa": false,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s02-1",
+        "page": 94,
+        "subject": 2
+      }
+    ],
+    "cartoes": [
+      "q006-conceito",
+      "q006-aplicar"
+    ]
+  },
+  {
+    "id": "q007",
+    "eixo": "estatistica",
+    "competencias": [
+      "associação e causalidade"
+    ],
+    "contexto": "context-7",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s02-1",
+        "page": 82,
+        "subject": 2
+      }
+    ],
+    "cartoes": [
+      "q007-conceito",
+      "q007-aplicar"
+    ]
+  },
+  {
+    "id": "q008",
+    "eixo": "estatistica",
+    "competencias": [
+      "probabilidade"
+    ],
+    "contexto": "context-8",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s02-1",
+        "page": 38,
+        "subject": 2
+      }
+    ],
+    "cartoes": [
+      "q008-conceito",
+      "q008-aplicar"
+    ]
+  },
+  {
+    "id": "q009",
+    "eixo": "estatistica",
+    "competencias": [
+      "probabilidade"
+    ],
+    "contexto": "context-9",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s02-1",
+        "page": 42,
+        "subject": 2
+      }
+    ],
+    "cartoes": [
+      "q009-conceito",
+      "q009-aplicar"
+    ]
+  },
+  {
+    "id": "q010",
+    "eixo": "estatistica",
+    "competencias": [
+      "associação categórica"
+    ],
+    "contexto": "context-10",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s02-1",
+        "page": 76,
+        "subject": 2
+      },
+      {
+        "source": "s18-1",
+        "page": 12,
+        "subject": 18
+      }
+    ],
+    "cartoes": [
+      "q010-conceito",
+      "q010-aplicar"
+    ]
+  },
+  {
+    "id": "q011",
+    "eixo": "estatistica",
+    "competencias": [
+      "decisão multicritério"
+    ],
+    "contexto": "context-11",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s14-1",
+        "page": 32,
+        "subject": 14
+      }
+    ],
+    "cartoes": [
+      "q011-conceito",
+      "q011-aplicar"
+    ]
+  },
+  {
+    "id": "q012",
+    "eixo": "estatistica",
+    "competencias": [
+      "decisão multicritério"
+    ],
+    "contexto": "context-12",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s14-1",
+        "page": 45,
+        "subject": 14
+      },
+      {
+        "source": "s11-1",
+        "page": 44,
+        "subject": 11
+      }
+    ],
+    "cartoes": [
+      "q012-conceito",
+      "q012-aplicar"
+    ]
+  },
+  {
+    "id": "q013",
+    "eixo": "dados",
+    "competencias": [
+      "estrutura dos dados"
+    ],
+    "contexto": "context-13",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s03-1",
+        "page": 5,
+        "subject": 3
+      }
+    ],
+    "cartoes": [
+      "q013-conceito",
+      "q013-aplicar"
+    ]
+  },
+  {
+    "id": "q014",
+    "eixo": "dados",
+    "competencias": [
+      "ferramentas de dados"
+    ],
+    "contexto": "context-14",
+    "integrativa": true,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s03-1",
+        "page": 23,
+        "subject": 3
+      },
+      {
+        "source": "s27-1",
+        "page": 7,
+        "subject": 27
+      }
+    ],
+    "cartoes": [
+      "q014-conceito",
+      "q014-aplicar"
+    ]
+  },
+  {
+    "id": "q015",
+    "eixo": "dados",
+    "competencias": [
+      "estrutura dos dados"
+    ],
+    "contexto": "context-15",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s05-1",
+        "page": 38,
+        "subject": 5
+      }
+    ],
+    "cartoes": [
+      "q015-conceito",
+      "q015-aplicar"
+    ]
+  },
+  {
+    "id": "q016",
+    "eixo": "dados",
+    "competencias": [
+      "fluxo de dados"
+    ],
+    "contexto": "context-16",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s05-1",
+        "page": 10,
+        "subject": 5
+      }
+    ],
+    "cartoes": [
+      "q016-conceito",
+      "q016-aplicar"
+    ]
+  },
+  {
+    "id": "q017",
+    "eixo": "dados",
+    "competencias": [
+      "junção de dados"
+    ],
+    "contexto": "context-17",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s27-1",
+        "page": 4,
+        "subject": 27
+      }
+    ],
+    "cartoes": [
+      "q017-conceito",
+      "q017-aplicar"
+    ]
+  },
+  {
+    "id": "q018",
+    "eixo": "dados",
+    "competencias": [
+      "qualidade de dados"
+    ],
+    "contexto": "context-18",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s27-1",
+        "page": 4,
+        "subject": 27
+      }
+    ],
+    "cartoes": [
+      "q018-conceito",
+      "q018-aplicar"
+    ]
+  },
+  {
+    "id": "q019",
+    "eixo": "dados",
+    "competencias": [
+      "qualidade de dados"
+    ],
+    "contexto": "context-19",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s27-1",
+        "page": 4,
+        "subject": 27
+      }
+    ],
+    "cartoes": [
+      "q019-conceito",
+      "q019-aplicar"
+    ]
+  },
+  {
+    "id": "q020",
+    "eixo": "dados",
+    "competencias": [
+      "agregação"
+    ],
+    "contexto": "context-20",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s27-1",
+        "page": 4,
+        "subject": 27
+      }
+    ],
+    "cartoes": [
+      "q020-conceito",
+      "q020-aplicar"
+    ]
+  },
+  {
+    "id": "q021",
+    "eixo": "dados",
+    "competencias": [
+      "agregação"
+    ],
+    "contexto": "context-21",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s27-1",
+        "page": 4,
+        "subject": 27
+      },
+      {
+        "source": "s04-1",
+        "page": 16,
+        "subject": 4
+      }
+    ],
+    "cartoes": [
+      "q021-conceito",
+      "q021-aplicar"
+    ]
+  },
+  {
+    "id": "q022",
+    "eixo": "dados",
+    "competencias": [
+      "coleta HTTP"
+    ],
+    "contexto": "context-22",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s28-1",
+        "page": 28,
+        "subject": 28
+      }
+    ],
+    "cartoes": [
+      "q022-conceito",
+      "q022-aplicar"
+    ]
+  },
+  {
+    "id": "q023",
+    "eixo": "dados",
+    "competencias": [
+      "coleta HTTP"
+    ],
+    "contexto": "context-23",
+    "integrativa": false,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s28-1",
+        "page": 35,
+        "subject": 28
+      }
+    ],
+    "cartoes": [
+      "q023-conceito",
+      "q023-aplicar"
+    ]
+  },
+  {
+    "id": "q024",
+    "eixo": "dados",
+    "competencias": [
+      "qualidade de dados"
+    ],
+    "contexto": "context-24",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s27-1",
+        "page": 3,
+        "subject": 27
+      },
+      {
+        "source": "s13-1",
+        "page": 15,
+        "subject": 13
+      }
+    ],
+    "cartoes": [
+      "q024-conceito",
+      "q024-aplicar"
+    ]
+  },
+  {
+    "id": "q025",
+    "eixo": "multivariada",
+    "competencias": [
+      "padronização"
+    ],
+    "contexto": "context-25",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s15-1",
+        "page": 21,
+        "subject": 15
+      }
+    ],
+    "cartoes": [
+      "q025-conceito",
+      "q025-aplicar"
+    ]
+  },
+  {
+    "id": "q026",
+    "eixo": "multivariada",
+    "competencias": [
+      "agrupamento"
+    ],
+    "contexto": "context-26",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s15-1",
+        "page": 22,
+        "subject": 15
+      }
+    ],
+    "cartoes": [
+      "q026-conceito",
+      "q026-aplicar"
+    ]
+  },
+  {
+    "id": "q027",
+    "eixo": "multivariada",
+    "competencias": [
+      "padronização"
+    ],
+    "contexto": "context-27",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s17-1",
+        "page": 8,
+        "subject": 17
+      }
+    ],
+    "cartoes": [
+      "q027-conceito",
+      "q027-aplicar"
+    ]
+  },
+  {
+    "id": "q028",
+    "eixo": "multivariada",
+    "competencias": [
+      "redução de dimensão"
+    ],
+    "contexto": "context-28",
+    "integrativa": false,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s17-1",
+        "page": 12,
+        "subject": 17
+      }
+    ],
+    "cartoes": [
+      "q028-conceito",
+      "q028-aplicar"
+    ]
+  },
+  {
+    "id": "q029",
+    "eixo": "multivariada",
+    "competencias": [
+      "associação categórica"
+    ],
+    "contexto": "context-29",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s18-1",
+        "page": 3,
+        "subject": 18
+      }
+    ],
+    "cartoes": [
+      "q029-conceito",
+      "q029-aplicar"
+    ]
+  },
+  {
+    "id": "q030",
+    "eixo": "multivariada",
+    "competencias": [
+      "associação categórica"
+    ],
+    "contexto": "context-30",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s18-1",
+        "page": 18,
+        "subject": 18
+      },
+      {
+        "source": "s02-1",
+        "page": 76,
+        "subject": 2
+      }
+    ],
+    "cartoes": [
+      "q030-conceito",
+      "q030-aplicar"
+    ]
+  },
+  {
+    "id": "q031",
+    "eixo": "multivariada",
+    "competencias": [
+      "agrupamento"
+    ],
+    "contexto": "context-31",
+    "integrativa": true,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s19-1",
+        "page": 5,
+        "subject": 19
+      },
+      {
+        "source": "s15-1",
+        "page": 3,
+        "subject": 15
+      }
+    ],
+    "cartoes": [
+      "q031-conceito",
+      "q031-aplicar"
+    ]
+  },
+  {
+    "id": "q032",
+    "eixo": "multivariada",
+    "competencias": [
+      "redução de dimensão"
+    ],
+    "contexto": "context-32",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s19-1",
+        "page": 8,
+        "subject": 19
+      },
+      {
+        "source": "s17-1",
+        "page": 3,
+        "subject": 17
+      }
+    ],
+    "cartoes": [
+      "q032-conceito",
+      "q032-aplicar"
+    ]
+  },
+  {
+    "id": "q033",
+    "eixo": "multivariada",
+    "competencias": [
+      "estrutura de redes"
+    ],
+    "contexto": "context-33",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s09-1",
+        "page": 25,
+        "subject": 9
+      }
+    ],
+    "cartoes": [
+      "q033-conceito",
+      "q033-aplicar"
+    ]
+  },
+  {
+    "id": "q034",
+    "eixo": "multivariada",
+    "competencias": [
+      "estrutura de redes"
+    ],
+    "contexto": "context-34",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s09-1",
+        "page": 38,
+        "subject": 9
+      }
+    ],
+    "cartoes": [
+      "q034-conceito",
+      "q034-aplicar"
+    ]
+  },
+  {
+    "id": "q035",
+    "eixo": "multivariada",
+    "competencias": [
+      "referência espacial"
+    ],
+    "contexto": "context-35",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s38-1",
+        "page": 10,
+        "subject": 38
+      }
+    ],
+    "cartoes": [
+      "q035-conceito",
+      "q035-aplicar"
+    ]
+  },
+  {
+    "id": "q036",
+    "eixo": "multivariada",
+    "competencias": [
+      "junção de dados"
+    ],
+    "contexto": "context-36",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s38-1",
+        "page": 24,
+        "subject": 38
+      },
+      {
+        "source": "s27-1",
+        "page": 4,
+        "subject": 27
+      }
+    ],
+    "cartoes": [
+      "q036-conceito",
+      "q036-aplicar"
+    ]
+  },
+  {
+    "id": "q037",
+    "eixo": "supervisionada",
+    "competencias": [
+      "regressão linear"
+    ],
+    "contexto": "context-37",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s20-1",
+        "page": 18,
+        "subject": 20
+      }
+    ],
+    "cartoes": [
+      "q037-conceito",
+      "q037-aplicar"
+    ]
+  },
+  {
+    "id": "q038",
+    "eixo": "supervisionada",
+    "competencias": [
+      "ajuste e generalização"
+    ],
+    "contexto": "context-38",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s20-1",
+        "page": 21,
+        "subject": 20
+      }
+    ],
+    "cartoes": [
+      "q038-conceito",
+      "q038-aplicar"
+    ]
+  },
+  {
+    "id": "q039",
+    "eixo": "supervisionada",
+    "competencias": [
+      "colinearidade"
+    ],
+    "contexto": "context-39",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s20-1",
+        "page": 47,
+        "subject": 20
+      },
+      {
+        "source": "s17-1",
+        "page": 3,
+        "subject": 17
+      }
+    ],
+    "cartoes": [
+      "q039-conceito",
+      "q039-aplicar"
+    ]
+  },
+  {
+    "id": "q040",
+    "eixo": "supervisionada",
+    "competencias": [
+      "resíduos"
+    ],
+    "contexto": "context-40",
+    "integrativa": false,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s20-1",
+        "page": 48,
+        "subject": 20
+      }
+    ],
+    "cartoes": [
+      "q040-conceito",
+      "q040-aplicar"
+    ]
+  },
+  {
+    "id": "q041",
+    "eixo": "supervisionada",
+    "competencias": [
+      "tipo de variável"
+    ],
+    "contexto": "context-41",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s21-1",
+        "page": 6,
+        "subject": 21
+      }
+    ],
+    "cartoes": [
+      "q041-conceito",
+      "q041-aplicar"
+    ]
+  },
+  {
+    "id": "q042",
+    "eixo": "supervisionada",
+    "competencias": [
+      "probabilidade e odds"
+    ],
+    "contexto": "context-42",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s21-1",
+        "page": 10,
+        "subject": 21
+      }
+    ],
+    "cartoes": [
+      "q042-conceito",
+      "q042-aplicar"
+    ]
+  },
+  {
+    "id": "q043",
+    "eixo": "supervisionada",
+    "competencias": [
+      "tipo de variável"
+    ],
+    "contexto": "context-43",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s21-1",
+        "page": 16,
+        "subject": 21
+      }
+    ],
+    "cartoes": [
+      "q043-conceito",
+      "q043-aplicar"
+    ]
+  },
+  {
+    "id": "q044",
+    "eixo": "supervisionada",
+    "competencias": [
+      "contagem e dispersão"
+    ],
+    "contexto": "context-44",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s22-1",
+        "page": 12,
+        "subject": 22
+      },
+      {
+        "source": "s02-1",
+        "page": 42,
+        "subject": 2
+      }
+    ],
+    "cartoes": [
+      "q044-conceito",
+      "q044-aplicar"
+    ]
+  },
+  {
+    "id": "q045",
+    "eixo": "supervisionada",
+    "competencias": [
+      "contagem e dispersão"
+    ],
+    "contexto": "context-45",
+    "integrativa": false,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s22-1",
+        "page": 18,
+        "subject": 22
+      }
+    ],
+    "cartoes": [
+      "q045-conceito",
+      "q045-aplicar"
+    ]
+  },
+  {
+    "id": "q046",
+    "eixo": "supervisionada",
+    "competencias": [
+      "dependência e hierarquia"
+    ],
+    "contexto": "context-46",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s23-1",
+        "page": 6,
+        "subject": 23
+      }
+    ],
+    "cartoes": [
+      "q046-conceito",
+      "q046-aplicar"
+    ]
+  },
+  {
+    "id": "q047",
+    "eixo": "supervisionada",
+    "competencias": [
+      "dependência e hierarquia"
+    ],
+    "contexto": "context-47",
+    "integrativa": false,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s23-1",
+        "page": 34,
+        "subject": 23
+      }
+    ],
+    "cartoes": [
+      "q047-conceito",
+      "q047-aplicar"
+    ]
+  },
+  {
+    "id": "q048",
+    "eixo": "supervisionada",
+    "competencias": [
+      "ensembles"
+    ],
+    "contexto": "context-48",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s32-1",
+        "page": 37,
+        "subject": 32
+      }
+    ],
+    "cartoes": [
+      "q048-conceito",
+      "q048-aplicar"
+    ]
+  },
+  {
+    "id": "q049",
+    "eixo": "supervisionada",
+    "competencias": [
+      "ensembles"
+    ],
+    "contexto": "context-49",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s32-1",
+        "page": 25,
+        "subject": 32
+      }
+    ],
+    "cartoes": [
+      "q049-conceito",
+      "q049-aplicar"
+    ]
+  },
+  {
+    "id": "q050",
+    "eixo": "supervisionada",
+    "competencias": [
+      "margem e kernel"
+    ],
+    "contexto": "context-50",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s37-1",
+        "page": 4,
+        "subject": 37
+      }
+    ],
+    "cartoes": [
+      "q050-conceito",
+      "q050-aplicar"
+    ]
+  },
+  {
+    "id": "q051",
+    "eixo": "supervisionada",
+    "competencias": [
+      "margem e kernel"
+    ],
+    "contexto": "context-51",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s37-1",
+        "page": 7,
+        "subject": 37
+      }
+    ],
+    "cartoes": [
+      "q051-conceito",
+      "q051-aplicar"
+    ]
+  },
+  {
+    "id": "q052",
+    "eixo": "supervisionada",
+    "competencias": [
+      "padronização"
+    ],
+    "contexto": "context-52",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s37-1",
+        "page": 13,
+        "subject": 37
+      },
+      {
+        "source": "s15-1",
+        "page": 21,
+        "subject": 15
+      }
+    ],
+    "cartoes": [
+      "q052-conceito",
+      "q052-aplicar"
+    ]
+  },
+  {
+    "id": "q053",
+    "eixo": "supervisionada",
+    "competencias": [
+      "métricas de classificação"
+    ],
+    "contexto": "context-53",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s37-1",
+        "page": 16,
+        "subject": 37
+      },
+      {
+        "source": "s11-1",
+        "page": 26,
+        "subject": 11
+      }
+    ],
+    "cartoes": [
+      "q053-conceito",
+      "q053-aplicar"
+    ]
+  },
+  {
+    "id": "q054",
+    "eixo": "supervisionada",
+    "competencias": [
+      "validação"
+    ],
+    "contexto": "context-54",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s37-1",
+        "page": 19,
+        "subject": 37
+      },
+      {
+        "source": "s24-1",
+        "page": 6,
+        "subject": 24
+      }
+    ],
+    "cartoes": [
+      "q054-conceito",
+      "q054-aplicar"
+    ]
+  },
+  {
+    "id": "q055",
+    "eixo": "temporal",
+    "competencias": [
+      "estrutura temporal"
+    ],
+    "contexto": "context-55",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s26-1",
+        "page": 23,
+        "subject": 26
+      }
+    ],
+    "cartoes": [
+      "q055-conceito",
+      "q055-aplicar"
+    ]
+  },
+  {
+    "id": "q056",
+    "eixo": "temporal",
+    "competencias": [
+      "estrutura temporal"
+    ],
+    "contexto": "context-56",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s26-1",
+        "page": 21,
+        "subject": 26
+      }
+    ],
+    "cartoes": [
+      "q056-conceito",
+      "q056-aplicar"
+    ]
+  },
+  {
+    "id": "q057",
+    "eixo": "temporal",
+    "competencias": [
+      "estacionariedade"
+    ],
+    "contexto": "context-57",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s31-1",
+        "page": 9,
+        "subject": 31
+      },
+      {
+        "source": "s26-1",
+        "page": 52,
+        "subject": 26
+      }
+    ],
+    "cartoes": [
+      "q057-conceito",
+      "q057-aplicar"
+    ]
+  },
+  {
+    "id": "q058",
+    "eixo": "temporal",
+    "competencias": [
+      "estacionariedade"
+    ],
+    "contexto": "context-58",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s31-1",
+        "page": 11,
+        "subject": 31
+      },
+      {
+        "source": "s26-1",
+        "page": 54,
+        "subject": 26
+      }
+    ],
+    "cartoes": [
+      "q058-conceito",
+      "q058-aplicar"
+    ]
+  },
+  {
+    "id": "q059",
+    "eixo": "temporal",
+    "competencias": [
+      "modelos temporais"
+    ],
+    "contexto": "context-59",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s26-1",
+        "page": 54,
+        "subject": 26
+      }
+    ],
+    "cartoes": [
+      "q059-conceito",
+      "q059-aplicar"
+    ]
+  },
+  {
+    "id": "q060",
+    "eixo": "temporal",
+    "competencias": [
+      "suavização"
+    ],
+    "contexto": "context-60",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s26-1",
+        "page": 45,
+        "subject": 26
+      }
+    ],
+    "cartoes": [
+      "q060-conceito",
+      "q060-aplicar"
+    ]
+  },
+  {
+    "id": "q061",
+    "eixo": "temporal",
+    "competencias": [
+      "suavização"
+    ],
+    "contexto": "context-61",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s26-1",
+        "page": 47,
+        "subject": 26
+      }
+    ],
+    "cartoes": [
+      "q061-conceito",
+      "q061-aplicar"
+    ]
+  },
+  {
+    "id": "q062",
+    "eixo": "temporal",
+    "competencias": [
+      "validação"
+    ],
+    "contexto": "context-62",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s26-1",
+        "page": 36,
+        "subject": 26
+      },
+      {
+        "source": "s37-1",
+        "page": 20,
+        "subject": 37
+      }
+    ],
+    "cartoes": [
+      "q062-conceito",
+      "q062-aplicar"
+    ]
+  },
+  {
+    "id": "q063",
+    "eixo": "ia",
+    "competencias": [
+      "representação neural"
+    ],
+    "contexto": "context-63",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s33-1",
+        "page": 15,
+        "subject": 33
+      }
+    ],
+    "cartoes": [
+      "q063-conceito",
+      "q063-aplicar"
+    ]
+  },
+  {
+    "id": "q064",
+    "eixo": "ia",
+    "competencias": [
+      "representação neural"
+    ],
+    "contexto": "context-64",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s33-1",
+        "page": 46,
+        "subject": 33
+      }
+    ],
+    "cartoes": [
+      "q064-conceito",
+      "q064-aplicar"
+    ]
+  },
+  {
+    "id": "q065",
+    "eixo": "ia",
+    "competencias": [
+      "otimização por gradiente"
+    ],
+    "contexto": "context-65",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s34-1",
+        "page": 15,
+        "subject": 34
+      }
+    ],
+    "cartoes": [
+      "q065-conceito",
+      "q065-aplicar"
+    ]
+  },
+  {
+    "id": "q066",
+    "eixo": "ia",
+    "competencias": [
+      "generalização"
+    ],
+    "contexto": "context-66",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s34-1",
+        "page": 20,
+        "subject": 34
+      },
+      {
+        "source": "s37-1",
+        "page": 20,
+        "subject": 37
+      }
+    ],
+    "cartoes": [
+      "q066-conceito",
+      "q066-aplicar"
+    ]
+  },
+  {
+    "id": "q067",
+    "eixo": "ia",
+    "competencias": [
+      "representação neural"
+    ],
+    "contexto": "context-67",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s34-2",
+        "page": 16,
+        "subject": 34
+      },
+      {
+        "source": "s33-1",
+        "page": 15,
+        "subject": 33
+      }
+    ],
+    "cartoes": [
+      "q067-conceito",
+      "q067-aplicar"
+    ]
+  },
+  {
+    "id": "q068",
+    "eixo": "ia",
+    "competencias": [
+      "representação de texto"
+    ],
+    "contexto": "context-68",
+    "integrativa": true,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s34-3",
+        "page": 12,
+        "subject": 34
+      },
+      {
+        "source": "s29-1",
+        "page": 30,
+        "subject": 29
+      }
+    ],
+    "cartoes": [
+      "q068-conceito",
+      "q068-aplicar"
+    ]
+  },
+  {
+    "id": "q069",
+    "eixo": "ia",
+    "competencias": [
+      "representação de texto"
+    ],
+    "contexto": "context-69",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s34-3",
+        "page": 13,
+        "subject": 34
+      }
+    ],
+    "cartoes": [
+      "q069-conceito",
+      "q069-aplicar"
+    ]
+  },
+  {
+    "id": "q070",
+    "eixo": "ia",
+    "competencias": [
+      "contexto e sentimento"
+    ],
+    "contexto": "context-70",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s29-3",
+        "page": 6,
+        "subject": 29
+      },
+      {
+        "source": "s34-3",
+        "page": 8,
+        "subject": 34
+      }
+    ],
+    "cartoes": [
+      "q070-conceito",
+      "q070-aplicar"
+    ]
+  },
+  {
+    "id": "q071",
+    "eixo": "ia",
+    "competencias": [
+      "recuperação semântica"
+    ],
+    "contexto": "context-71",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s35-1",
+        "page": 32,
+        "subject": 35
+      }
+    ],
+    "cartoes": [
+      "q071-conceito",
+      "q071-aplicar"
+    ]
+  },
+  {
+    "id": "q072",
+    "eixo": "ia",
+    "competencias": [
+      "recuperação semântica"
+    ],
+    "contexto": "context-72",
+    "integrativa": false,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s35-1",
+        "page": 24,
+        "subject": 35
+      }
+    ],
+    "cartoes": [
+      "q072-conceito",
+      "q072-aplicar"
+    ]
+  },
+  {
+    "id": "q073",
+    "eixo": "ia",
+    "competencias": [
+      "contrato de API"
+    ],
+    "contexto": "context-73",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s35-1",
+        "page": 14,
+        "subject": 35
+      }
+    ],
+    "cartoes": [
+      "q073-conceito",
+      "q073-aplicar"
+    ]
+  },
+  {
+    "id": "q074",
+    "eixo": "ia",
+    "competencias": [
+      "recuperação semântica"
+    ],
+    "contexto": "context-74",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s35-1",
+        "page": 35,
+        "subject": 35
+      },
+      {
+        "source": "s27-1",
+        "page": 3,
+        "subject": 27
+      }
+    ],
+    "cartoes": [
+      "q074-conceito",
+      "q074-aplicar"
+    ]
+  },
+  {
+    "id": "q075",
+    "eixo": "infra",
+    "competencias": [
+      "serviços de nuvem"
+    ],
+    "contexto": "context-75",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s08-1",
+        "page": 23,
+        "subject": 8
+      }
+    ],
+    "cartoes": [
+      "q075-conceito",
+      "q075-aplicar"
+    ]
+  },
+  {
+    "id": "q076",
+    "eixo": "infra",
+    "competencias": [
+      "elasticidade"
+    ],
+    "contexto": "context-76",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s08-1",
+        "page": 37,
+        "subject": 8
+      }
+    ],
+    "cartoes": [
+      "q076-conceito",
+      "q076-aplicar"
+    ]
+  },
+  {
+    "id": "q077",
+    "eixo": "infra",
+    "competencias": [
+      "controle de acesso"
+    ],
+    "contexto": "context-77",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s08-1",
+        "page": 62,
+        "subject": 8
+      },
+      {
+        "source": "s13-1",
+        "page": 15,
+        "subject": 13
+      }
+    ],
+    "cartoes": [
+      "q077-conceito",
+      "q077-aplicar"
+    ]
+  },
+  {
+    "id": "q078",
+    "eixo": "infra",
+    "competencias": [
+      "rastreabilidade de modelos"
+    ],
+    "contexto": "context-78",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s24-1",
+        "page": 14,
+        "subject": 24
+      }
+    ],
+    "cartoes": [
+      "q078-conceito",
+      "q078-aplicar"
+    ]
+  },
+  {
+    "id": "q079",
+    "eixo": "infra",
+    "competencias": [
+      "operação de modelos"
+    ],
+    "contexto": "context-79",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s24-1",
+        "page": 7,
+        "subject": 24
+      }
+    ],
+    "cartoes": [
+      "q079-conceito",
+      "q079-aplicar"
+    ]
+  },
+  {
+    "id": "q080",
+    "eixo": "infra",
+    "competencias": [
+      "rastreabilidade de modelos"
+    ],
+    "contexto": "context-80",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s24-1",
+        "page": 8,
+        "subject": 24
+      },
+      {
+        "source": "s08-1",
+        "page": 54,
+        "subject": 8
+      }
+    ],
+    "cartoes": [
+      "q080-conceito",
+      "q080-aplicar"
+    ]
+  },
+  {
+    "id": "q081",
+    "eixo": "infra",
+    "competencias": [
+      "formulação de otimização"
+    ],
+    "contexto": "context-81",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s30-1",
+        "page": 21,
+        "subject": 30
+      }
+    ],
+    "cartoes": [
+      "q081-conceito",
+      "q081-aplicar"
+    ]
+  },
+  {
+    "id": "q082",
+    "eixo": "infra",
+    "competencias": [
+      "formulação de otimização"
+    ],
+    "contexto": "context-82",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s30-1",
+        "page": 24,
+        "subject": 30
+      }
+    ],
+    "cartoes": [
+      "q082-conceito",
+      "q082-aplicar"
+    ]
+  },
+  {
+    "id": "q083",
+    "eixo": "infra",
+    "competencias": [
+      "formulação de otimização"
+    ],
+    "contexto": "context-83",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s30-1",
+        "page": 22,
+        "subject": 30
+      }
+    ],
+    "cartoes": [
+      "q083-conceito",
+      "q083-aplicar"
+    ]
+  },
+  {
+    "id": "q084",
+    "eixo": "infra",
+    "competencias": [
+      "busca evolucionária"
+    ],
+    "contexto": "context-84",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s07-1",
+        "page": 70,
+        "subject": 7
+      }
+    ],
+    "cartoes": [
+      "q084-conceito",
+      "q084-aplicar"
+    ]
+  },
+  {
+    "id": "q085",
+    "eixo": "infra",
+    "competencias": [
+      "busca evolucionária"
+    ],
+    "contexto": "context-85",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s07-1",
+        "page": 75,
+        "subject": 7
+      }
+    ],
+    "cartoes": [
+      "q085-conceito",
+      "q085-aplicar"
+    ]
+  },
+  {
+    "id": "q086",
+    "eixo": "infra",
+    "competencias": [
+      "busca e garantias"
+    ],
+    "contexto": "context-86",
+    "integrativa": true,
+    "dificuldade": "avancada",
+    "fontes": [
+      {
+        "source": "s07-1",
+        "page": 6,
+        "subject": 7
+      },
+      {
+        "source": "s30-1",
+        "page": 24,
+        "subject": 30
+      }
+    ],
+    "cartoes": [
+      "q086-conceito",
+      "q086-aplicar"
+    ]
+  },
+  {
+    "id": "q087",
+    "eixo": "gestao",
+    "competencias": [
+      "decisão com dados"
+    ],
+    "contexto": "context-87",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s04-1",
+        "page": 16,
+        "subject": 4
+      }
+    ],
+    "cartoes": [
+      "q087-conceito",
+      "q087-aplicar"
+    ]
+  },
+  {
+    "id": "q088",
+    "eixo": "gestao",
+    "competencias": [
+      "visualização"
+    ],
+    "contexto": "context-88",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s04-2",
+        "page": 6,
+        "subject": 4
+      },
+      {
+        "source": "s38-1",
+        "page": 32,
+        "subject": 38
+      }
+    ],
+    "cartoes": [
+      "q088-conceito",
+      "q088-aplicar"
+    ]
+  },
+  {
+    "id": "q089",
+    "eixo": "gestao",
+    "competencias": [
+      "contexto econômico"
+    ],
+    "contexto": "context-89",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s10-1",
+        "page": 22,
+        "subject": 10
+      }
+    ],
+    "cartoes": [
+      "q089-conceito",
+      "q089-aplicar"
+    ]
+  },
+  {
+    "id": "q090",
+    "eixo": "gestao",
+    "competencias": [
+      "contexto econômico"
+    ],
+    "contexto": "context-90",
+    "integrativa": false,
+    "dificuldade": "basica",
+    "fontes": [
+      {
+        "source": "s10-1",
+        "page": 39,
+        "subject": 10
+      }
+    ],
+    "cartoes": [
+      "q090-conceito",
+      "q090-aplicar"
+    ]
+  },
+  {
+    "id": "q091",
+    "eixo": "gestao",
+    "competencias": [
+      "análise de risco"
+    ],
+    "contexto": "context-91",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s11-1",
+        "page": 44,
+        "subject": 11
+      }
+    ],
+    "cartoes": [
+      "q091-conceito",
+      "q091-aplicar"
+    ]
+  },
+  {
+    "id": "q092",
+    "eixo": "gestao",
+    "competencias": [
+      "análise de risco"
+    ],
+    "contexto": "context-92",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s11-1",
+        "page": 26,
+        "subject": 11
+      },
+      {
+        "source": "s02-1",
+        "page": 38,
+        "subject": 2
+      }
+    ],
+    "cartoes": [
+      "q092-conceito",
+      "q092-aplicar"
+    ]
+  },
+  {
+    "id": "q093",
+    "eixo": "gestao",
+    "competencias": [
+      "liderança e comunicação"
+    ],
+    "contexto": "context-93",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s12-1",
+        "page": 5,
+        "subject": 12
+      }
+    ],
+    "cartoes": [
+      "q093-conceito",
+      "q093-aplicar"
+    ]
+  },
+  {
+    "id": "q094",
+    "eixo": "gestao",
+    "competencias": [
+      "liderança e comunicação"
+    ],
+    "contexto": "context-94",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s12-1",
+        "page": 5,
+        "subject": 12
+      },
+      {
+        "source": "s06-1",
+        "page": 75,
+        "subject": 6
+      },
+      {
+        "source": "s36-1",
+        "page": 25,
+        "subject": 36
+      }
+    ],
+    "cartoes": [
+      "q094-conceito",
+      "q094-aplicar"
+    ]
+  },
+  {
+    "id": "q095",
+    "eixo": "gestao",
+    "competencias": [
+      "adaptação e mudança"
+    ],
+    "contexto": "context-95",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s06-1",
+        "page": 47,
+        "subject": 6
+      },
+      {
+        "source": "s36-1",
+        "page": 46,
+        "subject": 36
+      }
+    ],
+    "cartoes": [
+      "q095-conceito",
+      "q095-aplicar"
+    ]
+  },
+  {
+    "id": "q096",
+    "eixo": "gestao",
+    "competencias": [
+      "governança e finalidade"
+    ],
+    "contexto": "context-96",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s13-1",
+        "page": 15,
+        "subject": 13
+      }
+    ],
+    "cartoes": [
+      "q096-conceito",
+      "q096-aplicar"
+    ]
+  },
+  {
+    "id": "q097",
+    "eixo": "gestao",
+    "competencias": [
+      "desenvolvimento profissional"
+    ],
+    "contexto": "context-97",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s25-1",
+        "page": 18,
+        "subject": 25
+      }
+    ],
+    "cartoes": [
+      "q097-conceito",
+      "q097-aplicar"
+    ]
+  },
+  {
+    "id": "q098",
+    "eixo": "gestao",
+    "competencias": [
+      "desenvolvimento profissional"
+    ],
+    "contexto": "context-98",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s25-1",
+        "page": 43,
+        "subject": 25
+      }
+    ],
+    "cartoes": [
+      "q098-conceito",
+      "q098-aplicar"
+    ]
+  },
+  {
+    "id": "q099",
+    "eixo": "gestao",
+    "competencias": [
+      "pesquisa e evidência"
+    ],
+    "contexto": "context-99",
+    "integrativa": false,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s16-1",
+        "page": 20,
+        "subject": 16
+      }
+    ],
+    "cartoes": [
+      "q099-conceito",
+      "q099-aplicar"
+    ]
+  },
+  {
+    "id": "q100",
+    "eixo": "gestao",
+    "competencias": [
+      "pesquisa e evidência"
+    ],
+    "contexto": "context-100",
+    "integrativa": true,
+    "dificuldade": "intermediaria",
+    "fontes": [
+      {
+        "source": "s16-1",
+        "page": 31,
+        "subject": 16
+      },
+      {
+        "source": "s13-1",
+        "page": 15,
+        "subject": 13
+      }
+    ],
+    "cartoes": [
+      "q100-conceito",
+      "q100-aplicar"
+    ]
+  }
+]

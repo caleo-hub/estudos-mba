@@ -1,0 +1,422 @@
+[
+  {
+    "id": "s01-1",
+    "subject": 1,
+    "title": "Abertura do Curso",
+    "file": "Aula Inaugural 06.05.2025.pdf",
+    "pageCount": 40
+  },
+  {
+    "id": "s02-1",
+    "subject": 2,
+    "title": "Fundamentos de Estatística",
+    "file": "Fundamentos de Estatistica 09-14 e 16.05.25.pdf",
+    "pageCount": 102
+  },
+  {
+    "id": "s02-2",
+    "subject": 2,
+    "title": "Fundamentos de Estatística",
+    "file": "Fundamentos de Estatística 09,14 e 16.05.2025.pdf",
+    "pageCount": 102
+  },
+  {
+    "id": "s03-1",
+    "subject": 3,
+    "title": "Introdução à Programação com Python",
+    "file": "Introducao Programacao Python 21-23 e 28.05.25.pdf",
+    "pageCount": 25
+  },
+  {
+    "id": "s04-1",
+    "subject": 4,
+    "title": "Business Intelligence e Data Visualization",
+    "file": "Business Intelligence 03.06.2025.pdf",
+    "pageCount": 21
+  },
+  {
+    "id": "s04-2",
+    "subject": 4,
+    "title": "Business Intelligence e Data Visualization",
+    "file": "Business Intelligence 10.06.2025_SL.pdf",
+    "pageCount": 14
+  },
+  {
+    "id": "s04-3",
+    "subject": 4,
+    "title": "Business Intelligence e Data Visualization",
+    "file": "Business Intelligence 17.06.2025_SL.pdf",
+    "pageCount": 16
+  },
+  {
+    "id": "s05-1",
+    "subject": 5,
+    "title": "Engenharia de Dados",
+    "file": "Engenharia de Dados 24.06.2025.pdf",
+    "pageCount": 46
+  },
+  {
+    "id": "s05-2",
+    "subject": 5,
+    "title": "Engenharia de Dados",
+    "file": "Engenharia de Dados II 01.07.2025_SL.pdf",
+    "pageCount": 23
+  },
+  {
+    "id": "s05-3",
+    "subject": 5,
+    "title": "Engenharia de Dados",
+    "file": "Engenharia de Dados III 15.07.2025_SL.pdf",
+    "pageCount": 23
+  },
+  {
+    "id": "s06-1",
+    "subject": 6,
+    "title": "Metodologias Ágeis",
+    "file": "Metodologias Ageis 22-29.07.25.pdf",
+    "pageCount": 173
+  },
+  {
+    "id": "s07-1",
+    "subject": 7,
+    "title": "Computação Evolucionária",
+    "file": "Computacao Evolucionaria I 05.08.2025_SL.pdf",
+    "pageCount": 77
+  },
+  {
+    "id": "s07-2",
+    "subject": 7,
+    "title": "Computação Evolucionária",
+    "file": "Computacao Evolucionaria II_SL 12.08.2025.pdf",
+    "pageCount": 52
+  },
+  {
+    "id": "s08-1",
+    "subject": 8,
+    "title": "Cloud Computing",
+    "file": "Cloud Computing 19.08.2025_SA.pdf",
+    "pageCount": 98
+  },
+  {
+    "id": "s08-2",
+    "subject": 8,
+    "title": "Cloud Computing",
+    "file": "Cloud Computing 26.08.2025_SA.pdf",
+    "pageCount": 79
+  },
+  {
+    "id": "s09-1",
+    "subject": 9,
+    "title": "Social Network Analysis",
+    "file": "Social Network Analysis 02.09.2025_SL.pdf",
+    "pageCount": 53
+  },
+  {
+    "id": "s09-2",
+    "subject": 9,
+    "title": "Social Network Analysis",
+    "file": "Social Network Analysis II 09.09.2025_SL.pdf",
+    "pageCount": 31
+  },
+  {
+    "id": "s10-1",
+    "subject": 10,
+    "title": "Análise da Conjuntura Econômica em Cenários de Tecnologias Disruptivas",
+    "file": "Análise da Conj. E. em Cenários de T. 16.09.2025_SL.pdf",
+    "pageCount": 57
+  },
+  {
+    "id": "s10-2",
+    "subject": 10,
+    "title": "Análise da Conjuntura Econômica em Cenários de Tecnologias Disruptivas",
+    "file": "Análise da Conj. E. em Cenários de T. 23.09.2025_SA.pdf",
+    "pageCount": 63
+  },
+  {
+    "id": "s11-1",
+    "subject": 11,
+    "title": "Analytics e Gestão de Riscos",
+    "file": "Analytics e Gestão de Riscos 07.10.2025_SL.pdf",
+    "pageCount": 57
+  },
+  {
+    "id": "s11-2",
+    "subject": 11,
+    "title": "Analytics e Gestão de Riscos",
+    "file": "Analytics e Gestão de Riscos 30.09 e 07.10.2025_SL.pdf",
+    "pageCount": 57
+  },
+  {
+    "id": "s12-1",
+    "subject": 12,
+    "title": "Liderança em Data Science",
+    "file": "Liderança em DSA 14.10.2025_SL.pdf",
+    "pageCount": 96
+  },
+  {
+    "id": "s13-1",
+    "subject": 13,
+    "title": "Legislação no Ambiente Digital (LGPD)",
+    "file": "Legislação no Ambiente Digital 21.10.25_SL.pdf",
+    "pageCount": 77
+  },
+  {
+    "id": "s14-1",
+    "subject": 14,
+    "title": "Modelagem Matemática e Estruturação de Problemas Complexos",
+    "file": "Modelagem Matematica 04.11.2025 ALUNOS_SL.pdf",
+    "pageCount": 129
+  },
+  {
+    "id": "s14-2",
+    "subject": 14,
+    "title": "Modelagem Matemática e Estruturação de Problemas Complexos",
+    "file": "Modelagem Matematica 28.10.2025_SA.pdf",
+    "pageCount": 119
+  },
+  {
+    "id": "s15-1",
+    "subject": 15,
+    "title": "Unsupervised Machine Learning - Clustering",
+    "file": "Clustering 11 e 18.11.2025_SL.pdf",
+    "pageCount": 29
+  },
+  {
+    "id": "s16-1",
+    "subject": 16,
+    "title": "Como Construir um TCC de Sucesso",
+    "file": "Como Construir um TCC de Sucesso 11 e 13.11.2025_SL.pdf",
+    "pageCount": 52
+  },
+  {
+    "id": "s17-1",
+    "subject": 17,
+    "title": "Unsupervised Machine Learning - Análise Fatorial e PCA",
+    "file": "Analise Fatorial PCA 25.11 e 02.12.2025_SL.pdf",
+    "pageCount": 22
+  },
+  {
+    "id": "s18-1",
+    "subject": 18,
+    "title": "Unsupervised Machine Learning - Análise de Correspondência Simples e Múltipla",
+    "file": "Unsupervised Machine Learning 13.01.2026_SL.pdf",
+    "pageCount": 36
+  },
+  {
+    "id": "s18-2",
+    "subject": 18,
+    "title": "Unsupervised Machine Learning - Análise de Correspondência Simples e Múltipla",
+    "file": "Unsupervised Machine Learning 20.01.2026_SL.pdf",
+    "pageCount": 36
+  },
+  {
+    "id": "s19-1",
+    "subject": 19,
+    "title": "Unsupervised Machine Learning - Exercícios Aplicados",
+    "file": "Unsupervised Machine Learning 27.01.2026_SL.pdf",
+    "pageCount": 10
+  },
+  {
+    "id": "s20-1",
+    "subject": 20,
+    "title": "Supervised Machine Learning - Análise de Regressão Simples e Múltipla",
+    "file": "Supervised M. Learning 03, 10, 24.02 e 03.03.2026_SL.pdf",
+    "pageCount": 50
+  },
+  {
+    "id": "s21-1",
+    "subject": 21,
+    "title": "Supervised Machine Learning - Modelos Logísticos Binários e Multinomiais",
+    "file": "Modelos Logísticos Binários 10 e 17.03.2026_SL.pdf",
+    "pageCount": 20
+  },
+  {
+    "id": "s22-1",
+    "subject": 22,
+    "title": "Supervised Machine Learning - Modelos para Dados de Contagem",
+    "file": "Supervised Machine Learning 24 e 31.03.2026_SL.pdf",
+    "pageCount": 26
+  },
+  {
+    "id": "s23-1",
+    "subject": 23,
+    "title": "Supervised Machine Learning - Modelagem Multinível",
+    "file": "SML Modelagem Multinível 07-14.04.26_SL.pdf",
+    "pageCount": 45
+  },
+  {
+    "id": "s24-1",
+    "subject": 24,
+    "title": "Big Data e Deployment de Modelos",
+    "file": "Big Data e Deployment de Modelos 24.04.2026_SL.pdf",
+    "pageCount": 23
+  },
+  {
+    "id": "s24-2",
+    "subject": 24,
+    "title": "Big Data e Deployment de Modelos",
+    "file": "Big Data e Deployment de Modelos 28.04.2026_SL.pdf",
+    "pageCount": 32
+  },
+  {
+    "id": "s25-1",
+    "subject": 25,
+    "title": "Aula Extra - Mentoring, Coaching e Programa de Desenvolvimento Individual",
+    "file": "Mentoring, Coaching e PDI 05.05.26_SL.pdf",
+    "pageCount": 81
+  },
+  {
+    "id": "s26-1",
+    "subject": 26,
+    "title": "Séries Temporais",
+    "file": "Séries Temporais 12, 19 e 26.05.2026_SL.pdf",
+    "pageCount": 81
+  },
+  {
+    "id": "s27-1",
+    "subject": 27,
+    "title": "Data Wrangling",
+    "file": "Data Wrangling 02,09,16,23.06.26_SL.pdf",
+    "pageCount": 9
+  },
+  {
+    "id": "s28-1",
+    "subject": 28,
+    "title": "Coleta de Dados - Crawlers e Web Scraping",
+    "file": "Coleta de dados 30.06.26_SL.pdf",
+    "pageCount": 54
+  },
+  {
+    "id": "s29-1",
+    "subject": 29,
+    "title": "Text Mining, Sentiment Analysis e NLP",
+    "file": "Text Mining 14.07.26_SL.pdf",
+    "pageCount": 50
+  },
+  {
+    "id": "s29-2",
+    "subject": 29,
+    "title": "Text Mining, Sentiment Analysis e NLP",
+    "file": "Text Mining 21.07.26_SL.pdf",
+    "pageCount": 14
+  },
+  {
+    "id": "s29-3",
+    "subject": 29,
+    "title": "Text Mining, Sentiment Analysis e NLP",
+    "file": "Text Mining 28.07.2026_SL.pdf",
+    "pageCount": 15
+  },
+  {
+    "id": "s30-1",
+    "subject": 30,
+    "title": "Pesquisa Operacional e Modelos de Otimização",
+    "file": "Pesquisa Operacional 04.08.26_SL.pdf",
+    "pageCount": 77
+  },
+  {
+    "id": "s30-2",
+    "subject": 30,
+    "title": "Pesquisa Operacional e Modelos de Otimização",
+    "file": "Pesquisa Operacional 11.08.26_SL.pdf",
+    "pageCount": 77
+  },
+  {
+    "id": "s30-3",
+    "subject": 30,
+    "title": "Pesquisa Operacional e Modelos de Otimização",
+    "file": "Pesquisa Operacional 18.08.2026_SL.pdf",
+    "pageCount": 65
+  },
+  {
+    "id": "s30-4",
+    "subject": 30,
+    "title": "Pesquisa Operacional e Modelos de Otimização",
+    "file": "Pesquisa Operacional_Aula III 21.08.26_SL.pdf",
+    "pageCount": 64
+  },
+  {
+    "id": "s31-1",
+    "subject": 31,
+    "title": "Aula Extra - Exercícios de Séries Temporais",
+    "file": "Exercícios de Séries Temporais 14.08.2026_SL.pdf",
+    "pageCount": 20
+  },
+  {
+    "id": "s32-1",
+    "subject": 32,
+    "title": "Árvores, Redes e Ensemble Models",
+    "file": "Árvores, Redes e Ensemble 01-08.09.2026_SL.pdf",
+    "pageCount": 50
+  },
+  {
+    "id": "s32-2",
+    "subject": 32,
+    "title": "Árvores, Redes e Ensemble Models",
+    "file": "Árvores, Redes e Ensemble 01.09.2026_SL.pdf",
+    "pageCount": 50
+  },
+  {
+    "id": "s32-3",
+    "subject": 32,
+    "title": "Árvores, Redes e Ensemble Models",
+    "file": "Árvores, Redes e Ensemble Models 25.08.2026_SL.pdf",
+    "pageCount": 41
+  },
+  {
+    "id": "s33-1",
+    "subject": 33,
+    "title": "Introdução ao Deep Learning e Inteligência Artificial",
+    "file": "Introducao Deep Learning e IA 15.09.26_SL.pdf",
+    "pageCount": 55
+  },
+  {
+    "id": "s34-1",
+    "subject": 34,
+    "title": "Deep Learning e Inteligência Artificial",
+    "file": "Deep Learning e IA 22.09.26_SL.pdf",
+    "pageCount": 30
+  },
+  {
+    "id": "s34-2",
+    "subject": 34,
+    "title": "Deep Learning e Inteligência Artificial",
+    "file": "Deep Learning e IA II 29.09.26_SL.pdf",
+    "pageCount": 41
+  },
+  {
+    "id": "s34-3",
+    "subject": 34,
+    "title": "Deep Learning e Inteligência Artificial",
+    "file": "Deep Learning e IA III 06.10.2026_SL.pdf",
+    "pageCount": 29
+  },
+  {
+    "id": "s35-1",
+    "subject": 35,
+    "title": "Aula Extra - Desenvolvimento de APIs e Integração Prática de LLMs",
+    "file": "Desenvolvimento de APIs 07-16.10.26_SL.pdf",
+    "pageCount": 43
+  },
+  {
+    "id": "s36-1",
+    "subject": 36,
+    "title": "Gestão da Mudança na Era Digital",
+    "file": "Gestao da mudanca na era digital 13.10.26_SL.pdf",
+    "pageCount": 81
+  },
+  {
+    "id": "s37-1",
+    "subject": 37,
+    "title": "SVM - Support Vector Machines",
+    "file": "Support Vector Machines 20 e 27.10.2026_SL.pdf",
+    "pageCount": 23
+  },
+  {
+    "id": "s38-1",
+    "subject": 38,
+    "title": "Análise Estatística Espacial",
+    "file": "Analise Estatistica Espacial 03.11.2026_SL.pdf",
+    "pageCount": 43
+  }
+]

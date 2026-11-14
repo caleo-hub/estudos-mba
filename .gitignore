@@ -1,0 +1,8 @@
+Slides/
+.local/
+node_modules/
+dist/
+backups/
+*.log
+inventario-slides.json
+INDICE-SLIDES.md
