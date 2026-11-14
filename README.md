@@ -2,6 +2,16 @@
 
 Diagnóstico pessoal e revisão para o MBA em Data Science e Analytics USP/Esalq. Site local em português: 100 questões, oito eixos e 200 cartões com FSRS. Não representa o banco ou o formato da prova oficial.
 
+## Versão online
+
+**https://caleo-hub.github.io/estudos-mba/**
+
+O GitHub Pages publica o site estático via Actions a cada envio à branch `codex/mba-diagnostico`. Código e perguntas são públicos; os PDFs e o histórico pessoal não são incluídos. As referências online indicam o nome do PDF e a página para consulta no acervo local.
+
+O progresso continua salvo somente no navegador, sem conta ou sincronização. A versão online e a local têm origens diferentes: para transferir respostas, exporte o backup JSON na versão de origem e restaure na versão de destino, em **Método e backup**. Trocar de dispositivo também requer backup.
+
+Para gerar o build de Pages manualmente, defina `VITE_GITHUB_PAGES=true`; o prefixo padrão é `/estudos-mba/`. `PAGES_BASE_PATH` permite sobrescrever esse prefixo. Sem essas variáveis, o build continua funcionando no servidor local na porta 4173.
+
 ## Abrir no Windows
 
 1. Tenha Node.js 24 ou superior instalado.
