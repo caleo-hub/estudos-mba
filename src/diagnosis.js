@@ -34,16 +34,24 @@ export function diagnose(questions,answers){
 }
 export function questionPriority(q,answers,report){
  const a=answers[q.id];if(!a)return 0;
+ const axis=report.axes.find(axis=>axis.id===q.axis);
+ const axisBoost=axis?.status==='alta'?(q.axis==='estatistica'?2000:1000):0;
  const relevant=report.competencies.filter(c=>q.skills.includes(c.skill));
- if(relevant.some(c=>c.status==='revisar'))return 500+(a.choice!==q.correct&&a.confidence==='seguro'?50:0);
- if(a.choice!==q.correct&&a.confidence==='seguro')return 400;
- if(relevant.some(c=>['deslize','confirmar'].includes(c.status)))return 300;
- if(a.choice!==q.correct)return 250;
- return a.confidence==='seguro'?0:100;
+ if(relevant.some(c=>c.status==='revisar'))return axisBoost+500+(a.choice!==q.correct&&a.confidence==='seguro'?50:0);
+ if(a.choice!==q.correct&&a.confidence==='seguro')return axisBoost+400;
+ if(relevant.some(c=>['deslize','confirmar'].includes(c.status)))return axisBoost+300;
+ if(a.choice!==q.correct)return axisBoost+250;
+ return a.confidence==='seguro'?0:axisBoost+100;
 }
-export function initialCards(questions,answers,report){
- return questions.flatMap(q=>{const a=answers[q.id];if(!a)return[];const ok=a.choice===q.correct;
- if(ok&&a.confidence==='seguro')return[];
+export function reviewTargets(questions,answers,report){
+ return questions.flatMap(q=>{const a=answers[q.id];if(!Number.isInteger(a?.choice)||!a.confidence)return[];const ok=a.choice===q.correct;
+ const axis=report.axes.find(axis=>axis.id===q.axis);
+ // Correct answers outside a high-priority axis stay in the library, even if
+ // every card was manually activated in an earlier version of the app.
+ if(ok&&(a.confidence==='seguro'||axis?.status!=='alta'))return[];
  const isolated=report.competencies.some(c=>q.skills.includes(c.skill)&&c.status==='deslize');
- return isolated?[`${q.id}-aplicar`]:[`${q.id}-conceito`,`${q.id}-aplicar`];});
+ const ids=ok||isolated?[`${q.id}-aplicar`]:[`${q.id}-conceito`,`${q.id}-aplicar`];
+ const reason=ok?'Acerto inseguro em eixo de prioridade alta':isolated?'Confirmar possível deslize':'Erro no diagnóstico';
+ return ids.map(id=>({id,questionId:q.id,reason}));});
 }
+export function initialCards(questions,answers,report){return reviewTargets(questions,answers,report).map(t=>t.id);}
