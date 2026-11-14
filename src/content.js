@@ -1,4 +1,5 @@
 // Each line: references | competency | question | correct | 3 distractors with rationales | explanation | recall prompt | transfer prompt | transfer answer.
+import {lessons} from './lessons.js';
 const groups=[];
 function block(axis,text){for(const line of text.trim().split('\n')){const f=line.split('|').map(x=>x.trim());if(f.length!==11)throw Error(`Conteúdo inválido (${f.length}): ${line}`);groups.push({axis,f});}}
 
@@ -159,6 +160,6 @@ const recallAnswers={
 export const cards=questions.flatMap(q=>[
  {id:`${q.id}-conceito`,questionId:q.id,kind:'conceito',front:q.recall,back:recallAnswers[q.id]??q.explanation,example:`${q.application} ${q.solution}`,refs:q.refs},
  {id:`${q.id}-aplicar`,questionId:q.id,kind:'aplicação',front:q.application,back:q.solution,example:q.explanation,refs:q.refs}
-]);
+]).map(c=>({...c,lesson:lessons[c.questionId]}));
 // Interleave axes deterministically, so related items do not appear in a block.
 export const testOrder=Array.from({length:18},(_,round)=>['estatistica','dados','multivariada','supervisionada','temporal','ia','infra','gestao'].map(axis=>questions.filter(q=>q.axis===axis)[round]).filter(Boolean)).flat().map(q=>q.id);

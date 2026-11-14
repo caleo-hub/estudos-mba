@@ -36,6 +36,14 @@ O servidor escuta somente na interface local. Se a porta 4173 já estiver ocupad
 - **Biblioteca:** consulte os 200 cartões, inclusive os pontos fortes, sem ampliar a fila de revisão. Um possível deslize seleciona só o cartão de aplicação da questão errada. Ativações antigas ficam preservadas no histórico, mas não substituem os critérios da seleção atual.
 - **Método e backup:** exporte JSON para preservar respostas, histórico e agendamento. Limpar dados do navegador, mudar perfil ou mudar origem não sincroniza progresso. Restauração substitui o estado atual após confirmação. TSV exporta cartões para Anki; não transfere o agendamento FSRS do site.
 
+### Aprender com os cartões
+
+Ao revelar uma resposta, os cartões mostram quatro etapas inspiradas no método de Feynman: ideia em palavras simples, exemplo resolvido em três passos, confusão comum e convite para explicar com suas próprias palavras. A explicação de comparação fica recolhida até você tentar. O rascunho é opcional, não é salvo e não passa por correção automática de IA.
+
+Se marcar **Errei**, o agendamento registra uma única avaliação e o cartão permanece aberto na teoria. O botão **Entendi, próximo cartão** continua a fila sem registrar outro acerto. Os demais botões mantêm o fluxo normal. Essa mesma teoria está disponível na Biblioteca e na exportação TSV para Anki.
+
+São 100 lições específicas associadas aos dois cartões de cada questão. A inclusão de explicações não muda perguntas, alternativas, IDs, nota do diagnóstico nem histórico de memória.
+
 Uma nova tentativa arquiva a anterior no backup e preserva cartões e revisões. Como as questões são as mesmas, retestes após consultar o gabarito têm exposição prévia. As respostas ficam novamente ocultas até concluir a nova tentativa.
 
 ## Conteúdo e referências
